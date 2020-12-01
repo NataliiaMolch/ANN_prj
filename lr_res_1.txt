@@ -1,0 +1,24 @@
+For combination plr : 0.01                    
+	 ema of rewards : -6.999999999999974                    
+	 games_won : 0                    
+	 players_points : 0                    
+	 max win streaks : 0
+
+For combination plr : 0.005                    
+	 ema of rewards : -6.999999999999974                    
+	 games_won : 0                    
+	 players_points : 0                    
+	 max win streaks : 0
+
+For combination plr : 0.001                    
+	 ema of rewards : -6.861125391421882                    
+	 games_won : 63                    
+	 players_points : 7.0                    
+	 max win streaks : 8
+
+For combination plr : 0.0005                    
+	 ema of rewards : -6.999999999999973                    
+	 games_won : 0                    
+	 players_points : 0                    
+	 max win streaks : 0
+

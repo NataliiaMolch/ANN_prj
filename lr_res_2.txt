@@ -1,0 +1,18 @@
+For combination vlr : 0.005                    
+	 ema of rewards : -6.736023818500964                    
+	 games_won : 125                    
+	 players_points : 7.0                    
+	 max win streaks : 9
+
+For combination vlr : 0.001                    
+	 ema of rewards : -6.7976383605240684                    
+	 games_won : 120                    
+	 players_points : 7.0                    
+	 max win streaks : 8
+
+For combination vlr : 0.0005                    
+	 ema of rewards : -6.731655559953526                    
+	 games_won : 131                    
+	 players_points : 7.0                    
+	 max win streaks : 7
+
